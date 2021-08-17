@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rachel-scott
 - 👀 I’m interested in software development, UX/UI design, business, and more 
 - 👩‍⚕️ I believe in using tech for good and love exploring how it can improve people's lives
-- 💗 In my free time I enjoy baking and painting4d
+- 💗 In my free time I enjoy baking and painting
 - 🌱 I’m currently learning how to create my own website!
 
 <!---
